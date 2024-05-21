@@ -2,25 +2,17 @@
 
 This repository contains various PHP projects developed by Simran Duggal. Below are the details of each project.
 
-## Project 1: Homely Foods
+## Project 1: College Management system
 
 **Description:**  
-Homely Foods is a web application for meal planning and ordering. It includes features such as different meal plans, a FAQ section, categories for meals, and a contact form.
+College management system  is a web application which manages college details, faculty, students, assignments, courses, projects, syllabus, and attendance
 
 **Technologies Used:**  
 - PHP
 - HTML
 - CSS
-- JavaScript
-- Bootstrap
 - MySQL
 
-**Features:**  
-- Different types of meal plans (veg and non-veg)
-- FAQ section
-- Categories such as breakfast, lunch, dinner
-- Contact form for meal ordering
-- Emphasis on cleanliness and sanitation practices
 
 **How to Run the Project:**
 1. Clone the repository.
